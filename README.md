@@ -169,7 +169,7 @@ reg_tidy
     ## 4 temp              -1.15     0.296     -3.88 1.15e- 4    -1.73    -0.569
     ## 5 oxygen            -1.05     0.845     -1.24 2.17e- 1    -2.71     0.615
 
-#### The regression result shows that all variables are statistically significant at a 5% confidence level except oxygen. The surprising result is that the regression predicts that nitrogen positively influences water transparency but on a small scale.
+#### The regression result shows that all variables are statistically significant at a 5% confidence level except oxygen. The surprising result is that the regression predicted nitrogen positively influences water transparency but on a small scale.
 
 ### Plot
 
